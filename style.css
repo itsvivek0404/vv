@@ -1,0 +1,199 @@
+*{
+    background-color:black;
+    color: grey;
+    margin: 0px;
+    padding: 0px;
+    border: border-box;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.nav{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+height: 30px;
+
+}
+
+.nav i{
+    font-size: 20px;
+    
+}
+
+.box1{
+    display: flex;
+    align-items: center;
+  
+    .p1{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        margin-top: 20px;
+        margin-left: 40px;
+        margin-bottom: 10px;
+       
+    }
+    .intro{
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+    .intro3{
+        font-size: 15px;
+    }
+    .p2{
+        font-size: 25px;
+    }
+    .p3{
+        font-size: 30px;
+        color: chocolate;
+    }
+    
+}
+.box2{
+    display: flex;
+    justify-content: space-evenly;
+   
+    
+    .e1{
+        color: chocolate;
+    }
+    .box3{
+        width: 400px;
+        display: inline-block;
+        font-size: 20px;
+        margin-top: 30px;
+        .edu{
+            font-size: 15px;
+            color: grey;
+            }
+            
+    }
+    .box4{
+        width: 400px;
+        display: inline-block;
+        font-size: 20px;
+        margin-top: 30px;
+        .skills{
+           color: grey;
+            font-size: 15px;
+        } 
+    }
+}
+.border:hover{
+    border: 2px solid rgb(144, 65, 9);
+    border-radius: 4px;
+}
+.box5{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    .e1{
+        color: chocolate;
+    }
+    .box6{
+        width: 400px;
+        display: inline-block;
+        font-size: 20px;
+        margin-top: 30px;
+        .e2{
+            font-size: 18px;
+            color:rgb(167, 79, 16);
+        }
+        .edu{
+            font-size: 15px;
+            color: grey;
+            }
+            
+    }
+    .box7{
+        width: 400px;
+        display: inline-block;
+        font-size: 20px;
+       
+        margin-top: 30px;
+        .edu{
+            font-size: 15px;
+            color: grey;
+            }
+            .e3{
+                margin-left: 4px;
+                margin-bottom: 4px;
+            }
+            
+        }
+.box8{
+    width: 400px;
+    display: inline-block;
+    font-size: 20px;
+   
+    margin-top: 30px;
+    .edu{
+        font-size: 15px;
+        color:grey;
+        }
+        .e3{
+            margin-left: 4px;
+            margin-bottom: 4px;
+        }
+        
+    }
+}
+.box9{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    .e1{
+        color: chocolate;
+    }
+    .box10{
+        width: 400px;
+        display: inline-block;
+        font-size: 20px;
+        margin-top: 30px;
+        .e2{
+            font-size: 18px;
+            color:rgb(144, 65, 9);
+        }
+        .edu{
+            font-size: 15px;
+            color: grey;
+            }
+           
+    }
+    .box11{
+        width: 400px;
+        display: inline-block;
+        font-size: 20px;
+       
+        margin-top: 30px;
+        .edu{
+            font-size: 15px;
+            color: grey;
+            }
+            .e3{
+                margin-left: 4px;
+                margin-bottom: 4px;
+            }
+           
+        }
+    }
+    a{
+        color: grey;
+    }
+
+.icon i{
+   color: grey;
+    font-size: 20px;
+}
+footer{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: black;
+    color: rgb(150, 136, 136);
+    
+}
+.comm1{
+    color: black;
+}
